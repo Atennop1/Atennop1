@@ -19,4 +19,4 @@ In active development i have 2 projects: [Remagures](https://github.com/Atennop1
 ## Statistics
 ![Atennop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atennop1&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atennop1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atennop1)
