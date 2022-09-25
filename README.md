@@ -15,3 +15,8 @@ In active development i have 2 projects: [Remagures](https://github.com/Atennop1
 ## Follow me
 [![VK](https://img.shields.io/badge/-Vkontakte-090900?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/steven_diamond)
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=black)](https://web.telegram.org/k/#@billy_fresko)
+
+## Statistics
+[![Atennop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atennop1&count_private=true&show_icons=true)](https://github.com/atennop1/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atennop1)](https://github.com/atennop1/github-readme-stats)
