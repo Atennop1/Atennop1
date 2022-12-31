@@ -9,6 +9,8 @@ In active development i have 2 projects: [Remagures](https://github.com/Atennop1
 
 Co-author of the game "[Gift or Coal](https://github.com/Funny-Monkeys/Gift-or-Coal)", made at the New Year's game jam
 
+I have a [repository](https://github.com/Atennop1/Learning-Stuff) where I learn something new.
+
 ## Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=crimson&color=black)
