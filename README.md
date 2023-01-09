@@ -9,6 +9,8 @@ In active development i have 2 projects: [Remagures](https://github.com/Atennop1
 
 Co-author of the game "[Gift or Coal](https://github.com/Funny-Monkeys/Gift-or-Coal)", made at the New Year's game jam
 
+On December 31, 2022, I saw a meme associated with a minesweeper and already on January 5, 2023, the first version of [my minesweeper](https://github.com/Atennop1/Minesweeper) was ready :p
+
 I have a [repository](https://github.com/Atennop1/Learning-Stuff) where I learn something new.
 
 ## Languages and Tools
