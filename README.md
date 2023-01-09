@@ -1,6 +1,6 @@
-That's logo of my "company" Atennop Games :)
+That's logo of my "company" Atennop Games :) Author of the logo idea: https://lospec.com/inkpendude
 
-[![Header](https://github.com/Atennop1/Atennop1/blob/main/assets/logo.png)]()
+[![Header](https://github.com/Atennop1/Atennop1/blob/main/assets/Logo.png)]()
 
 # About me
 My name is Anton, I love programming and GameDev in particular. I'm learning Unity C# on my own and aiming for perfect code ;)
