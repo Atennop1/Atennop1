@@ -1,7 +1,7 @@
-That's logo of my "company" Atennop Games :) 
-Author of the logo idea: https://lospec.com/inkpendude
+That's logo of my "company" Atennop Games :)
 
 [![Header](https://github.com/Atennop1/Atennop1/blob/main/assets/logo.png)]()
+###### Author of the logo idea: https://lospec.com/inkpendude
 
 # **About me**
 I am Anton - Unity Game Developer, strict OOP Researcher, learning on my own and aiming for perfect code ;)
