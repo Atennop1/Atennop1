@@ -29,10 +29,6 @@ I have a [repository](https://github.com/Atennop1/Learning-Stuff) where I learn 
 
 ## **Statistics**
 
-<img src="https://streak-stats.demolab.com/?user=Atennop1&theme=tokyonight" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Atennop1&count_private=true&show_icons=true&theme=tokyonight" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atennop1&layout=compact&theme=tokyonight" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=atennop&layout=compact&theme=tokyonight" width="50%">
+| <img src="https://streak-stats.demolab.com/?user=Atennop1&theme=tokyonight"> | <img src="https://github-readme-stats.vercel.app/api?username=Atennop1&count_private=true&show_icons=true&theme=tokyonight"> |
+| :---: | --- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atennop1&layout=compact&theme=tokyonight"> | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=atennop&layout=compact&theme=tokyonight"> |
