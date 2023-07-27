@@ -9,8 +9,8 @@ That's logo of my "company" Atennop Games :)
 - I learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/Learning-Stuff) where I learn something new
 
 #### More about projects:
-- In active development I have project called [**Remagures**](https://github.com/Atennop1/Remagures), game that I will release to the store
-- In the coming months I plan to start making a game **without an engine** 
+- At the moment I'm making a [**game without an engine**](https://github.com/Atennop1/ClickerWithoutAnEngine)
+- In development I have project called [**Remagures**](https://github.com/Atennop1/Remagures), game that I will release to the store
 - Co-author of the [**Gift or Coal**](https://github.com/Funny-Monkeys/Gift-or-Coal) game, made at the New Year's game jam 
 - On December 31, 2022, I saw a meme associated with a minesweeper and already on January 5, 2023, the first version of [**my minesweeper**](https://github.com/Atennop1/Minesweeper) was ready :p
 
