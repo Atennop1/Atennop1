@@ -37,4 +37,4 @@ That's logo of my "company" Atennop Games :)
 
 ## **Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Atennop1&theme=tokyonight&no-frame=true&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Atennop1&theme=tokyonight&no-frame=true&column=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
