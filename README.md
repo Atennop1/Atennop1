@@ -6,6 +6,8 @@ That's logo of my "company" Atennop Games :)
 # **About me**
 - I am Anton - **Unity Game Developer**, **strict OOP Researcher** 
 - At the moment I'm interested in low-level programming in C or even assembler (which is very bad at it😅) 
+- Sometimes I make bots for fun, or for new knowledge and **research of strict OOP**
+- I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise)
 - I learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/Learning-Stuff) where I learn something new
 
 #### More about projects:
