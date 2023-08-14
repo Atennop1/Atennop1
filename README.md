@@ -10,7 +10,7 @@ That's logo of my "company" Atennop Games :)
 - I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise)
 - I learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/Learning-Stuff) where I learn something new
 
-#### More about projects:
+### More about projects:
 - At the moment I'm making a [**game without an engine**](https://github.com/Atennop1/ClickerWithoutAnEngine)
 - And learning ECS approach via making [**Shooter**](https://github.com/Atennop1/ECS-Shooter)
 - In development I have project called [**Remagures**](https://github.com/Atennop1/Remagures), game that I will release to the store
@@ -34,11 +34,12 @@ That's logo of my "company" Atennop Games :)
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=Discord&color=black)](https://discordapp.com/users/837023021487226910/)
 
 ## **Statistics**
-
 | <img src="https://streak-stats.demolab.com/?user=Atennop1&theme=tokyonight"> | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atennop1&count_private=true&show_icons=true&theme=tokyonight"> |
 | :---: | --- |
 | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atennop1&layout=compact&theme=tokyonight"> | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=atennop&layout=compact&theme=tokyonight"> |
 
 ## **Trophies**
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Atennop1&theme=tokyonight&no-frame=true&column=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+## My pet snake that eating contributions
+![Snake](https://github.com/Atennop1/Atennop1/blob/output/github-contribution-grid-snake-dark.svg)
