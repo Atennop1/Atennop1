@@ -4,7 +4,7 @@ That's logo of my "company" AtennopGames :)
 ###### Author of the logo idea: https://lospec.com/inkpendude
 
 # **Hello!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-- I am Anton - **Unity Game Developer**, **strict OOP Researcher** 
+- I am Anton - **Game Developer**, **strict OOP Researcher** 
 - At the moment I'm interested in low-level programming in C or even assembler (which is very bad at it😅) 
 - Sometimes I make bots for fun, or for new knowledge and **research of strict OOP**
 - I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise)
