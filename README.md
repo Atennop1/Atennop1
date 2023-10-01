@@ -4,14 +4,15 @@ That's logo of my "company" AtennopGames :)
 ###### Author of the logo idea: https://lospec.com/inkpendude
 
 # **Hello!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-- I am Anton - **Game Developer**, **strict OOP Researcher** 
-- At the moment I'm interested in low-level programming in C or even assembler (which is very bad at it😅) 
-- Sometimes I make bots for fun, or for new knowledge and **research of strict OOP**
+- I am Anton - **GameDeveloper**, **strict OOP Researcher**
+- I'm currently migrating from Unity to pure C++ and Unreal Engine
+- Sometimes I make bots for fun, or for new knowledge and research
 - I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise)
 - I learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/Learning-Stuff) where I learn something new
 
 ### More about projects:
-- At the moment I'm making a [**game without an engine**](https://github.com/Atennop1/ClickerWithoutAnEngine)
+- At the moment I'm learning [**C++**](https://github.com/Atennop1/CPP-Learning) and [**Unreal**](https://github.com/Atennop1/UnrealLearning)
+- And making a [**game without an engine**](https://github.com/Atennop1/ArkanoidWithoutAnEngine)
 - And learning ECS approach via making [**Shooter**](https://github.com/Atennop1/ECS-Shooter)
 - Co-author of the [**Gift or Coal**](https://github.com/Funny-Monkeys/Gift-or-Coal) game, made at the New Year's game jam 
 - On December 31, 2022, I saw a meme associated with a minesweeper and already on January 5, 2023, the first version of [**my minesweeper**](https://github.com/Atennop1/Minesweeper) was ready :p
@@ -19,10 +20,12 @@ That's logo of my "company" AtennopGames :)
 ## **Languages and Tools**
 ![C#](https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=8333FF)
 ![Unity](https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity)
-![VS](https://img.shields.io/badge/VS-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=purple&color=black)
+<br>![C#](https://img.shields.io/badge/-C%2B%2B-090900?style=for-the-badge&logo=C%2B%2B&logoColor=blue)
+![Unreal](https://img.shields.io/badge/-Unreal-090900?style=for-the-badge&logo=unrealengine)
+<br>![VS](https://img.shields.io/badge/VS-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=purple&color=black)
 ![VSCode](https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=black)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=crimson&color=black)
-![Git](https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=Git&logoColor=red&color=black)
+<br>![Git](https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=Git&logoColor=red&color=black)
 ![Github](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white&color=black)
 ![Trello](https://img.shields.io/badge/Trello-000000.svg?style=for-the-badge&logo=Trello&logoColor=blue&color=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000.svg?style=for-the-badge&logo=postgresql&logoColor=blue&color=black)
