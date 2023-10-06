@@ -3,19 +3,20 @@ That's logo of my "company" AtennopGames :)
 [![Header](https://github.com/Atennop1/Atennop1/blob/main/assets/logo.png)]()
 ###### Author of the logo idea: https://lospec.com/inkpendude
 
-# **Hello!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# **About me**
 - I am Anton - **GameDeveloper**, **strict OOP Researcher**
 - I'm currently migrating from Unity to pure C++ and Unreal Engine
-- Sometimes I make bots for fun, or for new knowledge and research
+- I sometimes make bots for fun, or for new knowledge and research
 - I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise)
-- I learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/Learning-Stuff) where I learn something new
+- I am learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/LearningStuff) where I learn something new
 
 ### More about projects:
-- At the moment I'm learning [**C++**](https://github.com/Atennop1/CPP-Learning) and [**Unreal**](https://github.com/Atennop1/UnrealLearning)
-- And making a [**game without an engine**](https://github.com/Atennop1/ArkanoidWithoutAnEngine)
-- And learning ECS approach via making [**Shooter**](https://github.com/Atennop1/ECS-Shooter)
-- Co-author of the [**Gift or Coal**](https://github.com/Funny-Monkeys/Gift-or-Coal) game, made at the New Year's game jam 
-- On December 31, 2022, I saw a meme associated with a minesweeper and already on January 5, 2023, the first version of [**my minesweeper**](https://github.com/Atennop1/Minesweeper) was ready :p
+- I'm learning [**C++**](https://github.com/Atennop1/CPP-Learning) and [**Unreal**](https://github.com/Atennop1/UnrealLearning) now
+- I'm also making a [**game without an engine**](https://github.com/Atennop1/ArkanoidWithoutAnEngine)
+- I'm learning ECS approach via making [**Shooter**](https://github.com/Atennop1/ECS-Shooter)
+- I'm co-author of the [**Gift or Coal**](https://github.com/Funny-Monkeys/Gift-or-Coal) game, made at the New Year's game jam
+- I made [**my first game**](https://github.com/Atennop1/SavannaSprint) in 2021 and released it on GooglePlay
+- I completed [**my minesweeper**](https://github.com/Atennop1/Minesweeper) on January 5, 2023, and the idea appeared on December 31, 2022, when I saw a meme related to the minesweeper ;p
 
 ## **Languages and Tools**
 ![C#](https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=8333FF)
