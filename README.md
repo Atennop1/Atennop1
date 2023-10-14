@@ -34,7 +34,7 @@ That's logo of my "company" AtennopGames :)
 
 ## **Follow me**
 [![VK](https://img.shields.io/badge/-Vkontakte-090900?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/steven_diamond)
-[![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=black)](https://web.telegram.org/k/#@billy_fresko)
+[![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=black)](https://t.me/y9atennop)
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=Discord&color=black)](https://discordapp.com/users/837023021487226910/)
 
 ## **Statistics**
