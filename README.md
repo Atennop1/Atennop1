@@ -20,17 +20,19 @@ That's logo of my "company" AtennopGames :)
 - I completed [**my minesweeper**](https://github.com/Atennop1/Minesweeper) on January 5, 2023, and the idea appeared on December 31, 2022, when I saw a meme related to the minesweeper ;p
 
 ## **Languages and Tools**
-![C#](https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=8333FF)
-![Unity](https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity)
-<br>![C#](https://img.shields.io/badge/-C%2B%2B-090900?style=for-the-badge&logo=C%2B%2B&logoColor=blue)
-![Unreal](https://img.shields.io/badge/-Unreal-090900?style=for-the-badge&logo=unrealengine)
-<br>![VS](https://img.shields.io/badge/VS-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=purple&color=black)
+![VS](https://img.shields.io/badge/VS-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=purple&color=black)
 ![VSCode](https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=black)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=crimson&color=black)
+<br>![C#](https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=purple&color=black)
+![Unity](https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity&color=black)
+![C#](https://img.shields.io/badge/-C%2B%2B-090900?style=for-the-badge&logo=C%2B%2B&logoColor=blue&color=black)
+![Unreal](https://img.shields.io/badge/-Unreal-090900?style=for-the-badge&logo=unrealengine&color=black)
 <br>![Git](https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=Git&logoColor=red&color=black)
 ![Github](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white&color=black)
-![Trello](https://img.shields.io/badge/Trello-000000.svg?style=for-the-badge&logo=Trello&logoColor=blue&color=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000.svg?style=for-the-badge&logo=postgresql&logoColor=blue&color=black)
+![Trello](https://img.shields.io/badge/Trello-000000.svg?style=for-the-badge&logo=Trello&logoColor=blue&color=black)
+![Obsidian](https://img.shields.io/badge/Obsidian-000000.svg?style=for-the-badge&logo=Obsidian&logoColor=purple&color=black)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white&color=black)
 
 ## **Follow me**
 [![VK](https://img.shields.io/badge/-Vkontakte-090900?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/steven_diamond)
