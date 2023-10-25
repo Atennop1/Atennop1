@@ -6,7 +6,7 @@ That's logo of my "company" AtennopGames :)
 # **About me**
 - I am Anton - **GameDeveloper**, **strict OOP Researcher**
 - I'm currently migrating from Unity to pure C++ and Unreal Engine
-- I'm interested in Low-Level programming in C/C++ (drivers, optimized programms, Arduino and etc.)
+- I'm interested in Low-Level programming in C/C++ (drivers, optimized programs, Arduino and etc.)
 - I sometimes make bots for fun, or for new knowledge and research
 - I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise)
 - I am learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/LearningStuff) where I learn something new
