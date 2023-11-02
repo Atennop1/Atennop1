@@ -38,6 +38,7 @@ That's logo of my "company" AtennopGames :)
 [![VK](https://img.shields.io/badge/-Vkontakte-090900?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/steven_diamond)
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=black)](https://t.me/y9atennop)
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=Discord&color=black)](https://discordapp.com/users/837023021487226910/)
+[![PersonalSite](https://img.shields.io/badge/website-000000.svg?style=for-the-badge&logo=About.me&color=black)](https://atennop.ru)
 
 ## **Statistics**
 | <img src="https://streak-stats.demolab.com/?user=Atennop1&theme=tokyonight"> | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atennop1&count_private=true&show_icons=true&theme=tokyonight"> |
