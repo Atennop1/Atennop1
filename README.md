@@ -4,12 +4,13 @@ That's logo of my "company" AtennopGames :)
 ###### Author of the logo idea: https://lospec.com/inkpendude
 
 # **About me**
-- I am Anton - **GameDeveloper**, **strict OOP Researcher**
+- I'm Anton - **C# / C++ Engineer**, **strict OOP Researcher**
 - I'm currently migrating from Unity to pure C++ and Unreal Engine
-- I'm interested in Low-Level programming in C/C++ (drivers, optimized programs, Arduino and etc.)
+- I'm interested in Low-Level programming in C/C++ (drivers, optimized programs, Arduino and even hardware part)
+- I use Obsidian as my second brain to be more productive and efficient
 - I sometimes make bots for fun, or for new knowledge and research
 - I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise)
-- I am learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/LearningStuff) where I learn something new
+- I'm learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/LearningStuff) where I learn something new
 
 ### More about projects:
 - I'm learning [**C++**](https://github.com/Atennop1/CPP-Learning) and [**Unreal**](https://github.com/Atennop1/UnrealLearning) now
@@ -20,7 +21,7 @@ That's logo of my "company" AtennopGames :)
 - I made [**my first game**](https://github.com/Atennop1/SavannaSprint) in 2021 and released it on GooglePlay
 - I completed [**my minesweeper**](https://github.com/Atennop1/Minesweeper) on January 5, 2023, and the idea appeared on December 31, 2022, when I saw a meme related to the minesweeper ;p
 
-## **Languages and Tools**
+## **Languages, Technologies and Tools**
 ![VS](https://img.shields.io/badge/VS-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=purple&color=black)
 ![VSCode](https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=black)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=crimson&color=black)
@@ -28,9 +29,9 @@ That's logo of my "company" AtennopGames :)
 ![Unity](https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity&color=black)
 ![C#](https://img.shields.io/badge/-C%2B%2B-090900?style=for-the-badge&logo=C%2B%2B&logoColor=blue&color=black)
 ![Unreal](https://img.shields.io/badge/-Unreal-090900?style=for-the-badge&logo=unrealengine&color=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000.svg?style=for-the-badge&logo=postgresql&logoColor=blue&color=black)
 <br>![Git](https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=Git&logoColor=red&color=black)
 ![Github](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white&color=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000.svg?style=for-the-badge&logo=postgresql&logoColor=blue&color=black)
 ![Trello](https://img.shields.io/badge/Trello-000000.svg?style=for-the-badge&logo=Trello&logoColor=blue&color=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-000000.svg?style=for-the-badge&logo=Obsidian&logoColor=purple&color=black)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white&color=black)
