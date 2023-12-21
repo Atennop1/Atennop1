@@ -4,7 +4,7 @@ That's logo of my "company" AtennopGames :)
 ###### Author of the logo idea: https://lospec.com/inkpendude
 
 # **About me**
-- I'm Anton - **C# / C++ Engineer**, **strict OOP Researcher**
+- I'm Atennop - **C# / C++ Engineer**, **strict OOP Researcher**
 - I'm currently migrating from Unity to pure C++ and Unreal Engine
 - I'm interested in Low-Level programming in C/C++ (drivers, optimized programs, Arduino and even hardware part)
 - I use Obsidian as my second brain to be more productive and efficient
