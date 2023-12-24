@@ -4,7 +4,7 @@ That's logo of my "company" AtennopGames :)
 ###### Author of the logo idea: https://lospec.com/inkpendude
 
 # **About me**
-- I'm Atennop - **C# / C++ Engineer**, **strict OOP Researcher**
+- I'm Atennop - **C# / C++ Software Engineer**, **strict OOP Researcher**
 - I'm currently migrating from Unity to pure C++ and Unreal Engine
 - I'm interested in Low-Level programming in C/C++ (drivers, optimized programs, Arduino and even hardware part)
 - I use Obsidian as my second brain to be more productive and efficient
@@ -39,7 +39,7 @@ That's logo of my "company" AtennopGames :)
 
 ## **Follow me**
 [![VK](https://img.shields.io/badge/-Vkontakte-090900?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/steven_diamond)
-[![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=black)](https://t.me/y9atennop)
+[![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=black)](https://t.me/atennopmeta)
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=Discord&color=black)](https://discordapp.com/users/837023021487226910/)
 [![PersonalSite](https://img.shields.io/badge/website-000000.svg?style=for-the-badge&logo=About.me&color=black)](https://atennop.ru)
 
