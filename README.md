@@ -38,7 +38,6 @@ That's logo of my "company" AtennopGames :)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white&color=black)
 
 ## **Follow me**
-[![VK](https://img.shields.io/badge/-Vkontakte-090900?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/steven_diamond)
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=black)](https://t.me/atennopmeta)
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=Discord&color=black)](https://discordapp.com/users/837023021487226910/)
 [![PersonalSite](https://img.shields.io/badge/website-000000.svg?style=for-the-badge&logo=About.me&color=black)](https://atennop.ru)
