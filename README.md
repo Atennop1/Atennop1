@@ -9,6 +9,7 @@ That's logo of my "company" AtennopGames :)
 - I'm interested in Low-Level programming in C/C++ (drivers, optimized programs, Arduino and even hardware part)
 - I use Obsidian as my second brain to be more productive and efficient
 - I sometimes make bots for fun, or for new knowledge and research
+- I love to solve problems at CodeWars (4kyu or 3kyu, wanna someday solve a 2kyu or even 1kyu by myself)
 - I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise) in OOP style
 - I'm learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/LearningStuff) where I learn something new
 - I have [**meta**](https://t.me/atennopmeta) in telegram where you can find more info about me and my projects
@@ -42,6 +43,7 @@ That's logo of my "company" AtennopGames :)
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=black)](https://t.me/atennopmeta)
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=Discord&color=black)](https://discordapp.com/users/837023021487226910/)
 [![PersonalSite](https://img.shields.io/badge/website-000000.svg?style=for-the-badge&logo=About.me&color=black)](https://atennop.ru)
+<br>[![CodeWars](https://www.codewars.com/users/Atennop/badges/large)](https://www.codewars.com/users/Atennop)
 
 ## **Statistics**
 | <img src="https://streak-stats.demolab.com/?user=Atennop1&theme=tokyonight"> | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atennop1&count_private=true&show_icons=true&theme=tokyonight"> |
