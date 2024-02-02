@@ -7,10 +7,9 @@ That's logo of my "company" AtennopGames :)
 - I'm Atennop - **C# / C++ Software Engineer**, **strict OOP Researcher**
 - I'm currently migrating from Unity to pure C++ and Unreal Engine
 - I'm interested in Low-Level programming in C/C++ (drivers, optimized programs, Arduino and even hardware part)
-- I'm learning NASM and DOS for fun
 - I use Obsidian as my second brain to be more productive and efficient
 - I sometimes make bots for fun, or for new knowledge and research
-- I love to solve problems at CodeWars (4kyu or 3kyu, wanna someday solve a 2kyu or even 1kyu by myself)
+- I love to solve problems at LeetCode and CodeWars (4kyu or 3kyu, wanna someday solve a 2kyu or even 1kyu by myself)
 - I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise) in OOP style
 - I'm learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/LearningStuff) where I learn something new
 - I have [**meta**](https://t.me/atennopmeta) in telegram where you can find more info about me and my projects
