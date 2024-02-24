@@ -9,13 +9,12 @@ That's logo of my "company" AtennopGames :)
 - I'm interested in Low-Level programming in C/C++ (drivers, optimized programs, Arduino and even hardware part)
 - I use Obsidian as my second brain to be more productive and efficient
 - I sometimes make bots for fun, or for new knowledge and research
-- I love to solve problems at LeetCode and CodeWars (4kyu or 3kyu, wanna someday solve a 2kyu or even 1kyu by myself)
+- I love to solve problems at LeetCode and CodeWars (4kyu or 3kyu, wanna someday solve a 2kyu or even 1kyu by myself), and I publish my solutions to [**this repo**](https://github.com/Atennop1/CodeProblemsSolutions)
 - I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise) in OOP style
-- I'm learning on my own, aiming for perfect code and have a [**repository**](https://github.com/Atennop1/LearningStuff) where I learn something new
 - I have [**meta**](https://t.me/atennopmeta) in telegram where you can find more info about me and my projects
 
 ### More about projects:
-- I'm learning [**C++**](https://github.com/Atennop1/CPP-Learning) and [**Unreal**](https://github.com/Atennop1/UnrealLearning) now
+- I'm learning [**C++**](https://github.com/Atennop1/StephenPrataSolutions) and [**Unreal**](https://github.com/Atennop1/UnrealLearning) now
 - I'm also making a [**game without an engine**](https://github.com/Atennop1/ArkanoidWithoutAnEngine)
 - I'm was learning ECS approach via making [**Shooter**](https://github.com/Atennop1/ECS-Shooter)
 - I'm co-author of the [**Gift or Coal**](https://github.com/Funny-Monkeys/Gift-or-Coal) game, made at the New Year's game jam in 2022, and of the [**Escape From Hell**](https://github.com/GigaOrts/Halloween) game made on Halloween game jam in 2023
