@@ -1,7 +1,6 @@
 That's logo of my "company" AtennopGames :)
 
 [![Header](https://github.com/Atennop1/Atennop1/blob/main/assets/logo.png)]()
-###### Author of the logo: t.me/quarknalegke
 ###### Author of the logo idea: https://lospec.com/inkpendude
  
 # **About me**
