@@ -16,8 +16,8 @@ That's logo of my "company" AtennopGames :)
 ### More about projects:
 - I'm learning [**C++**](https://github.com/Atennop1/StephenPrataSolutions) and [**Unreal**](https://github.com/Atennop1/UnrealLearning) now
 - I'm also making a [**game without an engine**](https://github.com/Atennop1/ArkanoidWithoutAnEngine)
-- I'm learning ECS approach via making [**Shooter**](https://github.com/Atennop1/ECS-Shooter)
 - I'm co-author of the [**Gift or Coal**](https://github.com/Funny-Monkeys/Gift-or-Coal) game, made at the New Year's game jam in 2022, and of the [**Escape From Hell**](https://github.com/GigaOrts/Halloween) game made on Halloween game jam in 2023
+- I studied the ECS approach while creating [**Shooter**](https://github.com/Atennop1/ECS-Shooter)
 - I worked with the [**top 3 game developer in Finland**](https://www.youtube.com/@littenchar) in 2023 at the Siberian Game Jam, where we presented [**The Last Dawn**](https://thebloka.itch.io/the-last-dawn)
 - I made [**my first game**](https://github.com/Atennop1/SavannaSprint) in 2021 and released it on GooglePlay
 - I completed [**my minesweeper**](https://github.com/Atennop1/Minesweeper) on January 5, 2023, and the idea appeared on December 31, 2022, when I saw a meme related to the minesweeper ;p
