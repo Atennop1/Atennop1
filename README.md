@@ -5,7 +5,7 @@ That's logo of my "company" AtennopGames :)
  
 # **About me**
 - I'm Atennop - **C# / C++ Software Engineer**, **Game Developer** and **strict OOP Researcher**
-- I'm currently migrating from Unity to pure C++ and Unreal Engine
+- I'm a former Middle Unity developer, retraining to become a C++ Gameplay Engineer
 - I'm interested in Cybersecurity (Red Team) and wanna learn ethical hacking
 - I use Obsidian as my second brain to be more productive and efficient
 - I sometimes make bots for fun, or for new knowledge and research
