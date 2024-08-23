@@ -37,7 +37,6 @@ That's logo of my "company" AtennopGames :)
 ![Github](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white&color=black)
 ![Trello](https://img.shields.io/badge/Trello-000000.svg?style=for-the-badge&logo=Trello&logoColor=blue&color=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-000000.svg?style=for-the-badge&logo=Obsidian&logoColor=purple&color=black)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white&color=black)
 
 ## **Follow me**
 [![Telegram](https://img.shields.io/badge/Telegram-000000.svg?style=for-the-badge&logo=Telegram&color=black)](https://t.me/atennopmeta)
