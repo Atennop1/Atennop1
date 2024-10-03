@@ -6,7 +6,6 @@ That's logo of my "company" AtennopGames :)
 # **About me**
 - I'm Atennop - **C# / C++ Software Engineer**, **Game Developer** and **strict OOP Researcher**
 - I'm a former Middle Unity developer, who retraining to become a C++ Gameplay Engineer
-- I'm interested in Cybersecurity (Red Team) and wanna learn ethical hacking
 - I'm interested in network programming and want to delve into creating multiplayer games
 - I use Obsidian as my second brain to be more productive and efficient
 - I sometimes make bots for fun, or for new knowledge and research
