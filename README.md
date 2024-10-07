@@ -14,7 +14,7 @@ That's logo of my "company" AtennopGames :)
 - I have [**meta**](https://t.me/atennopmeta) in Telegram where you can find more info about me and see my posts where I write interesting things that I do
 
 ### More about projects:
-- I'm learning [**C++**](https://github.com/Atennop1/StephenPrataSolutions) and [**Unreal**](https://github.com/Atennop1/UnrealLearning) now
+- I made [**UnrealShooter**](https://github.com/Atennop1/UnrealShooter) as first project in Unreal
 - I'm also making a [**game without an engine**](https://github.com/Atennop1/ArkanoidWithoutAnEngine)
 - I'm co-author of the [**Gift or Coal**](https://github.com/Funny-Monkeys/Gift-or-Coal) game, made at the New Year's game jam in 2022, and of the [**Escape From Hell**](https://github.com/GigaOrts/Halloween) game made on Halloween game jam in 2023
 - I studied the ECS approach while creating [**Shooter**](https://github.com/Atennop1/ECS-Shooter)
