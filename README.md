@@ -23,11 +23,11 @@ That's logo of my "company" AtennopGames :)
 - I completed [**my minesweeper**](https://github.com/Atennop1/Minesweeper) on January 5, 2023, and the idea appeared on December 31, 2022, when I saw a meme related to the minesweeper ;p
 
 ## **Languages, Technologies and Tools**
-![VS](https://img.shields.io/badge/VS-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=purple&color=black)
-![VSCode](https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=black)
+![VS](https://img.shields.io/badge/VS-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=purple&color=black)
+![VSCode](https://img.shields.io/badge/VS%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue&color=black)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=crimson&color=black)
 ![Clion](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=CLion&logoColor=blue&color=black)
-<br>![C#](https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=purple&color=black)
+<br>![C#](https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=c-sharp&logoColor=purple&color=black)
 ![Unity](https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity&color=black)
 ![C#](https://img.shields.io/badge/-C%2B%2B-090900?style=for-the-badge&logo=C%2B%2B&logoColor=blue&color=black)
 ![Unreal](https://img.shields.io/badge/-Unreal-090900?style=for-the-badge&logo=unrealengine&color=black)
