@@ -14,8 +14,8 @@ That's logo of my "company" AtennopGames :)
 - I have [**meta**](https://t.me/atennopmeta) in Telegram where you can find more info about me and see my posts where I write interesting things that I do
 
 ### More about projects:
-- I made [**UnrealShooter**](https://github.com/Atennop1/UnrealShooter) as first project in Unreal
 - I made my own [**2D OOP game engine**](https://github.com/Atennop1/Genesis) and a [**game on it**](https://github.com/Atennop1/ArkanoidWithoutAnEngine)
+- I made [**UnrealShooter**](https://github.com/Atennop1/UnrealShooter) as first project in Unreal
 - I'm co-author of the [**Gift or Coal**](https://github.com/Funny-Monkeys/Gift-or-Coal) game, made at the New Year's game jam in 2022, and of the [**Escape From Hell**](https://github.com/GigaOrts/Halloween) game made on Halloween game jam in 2023
 - I studied the ECS approach while creating [**Shooter**](https://github.com/Atennop1/ECS-Shooter)
 - I worked with the [**top 3 game developer in Finland**](https://www.youtube.com/@littenchar) in 2023 at the Siberian Game Jam, where we presented [**The Last Dawn**](https://thebloka.itch.io/the-last-dawn)
