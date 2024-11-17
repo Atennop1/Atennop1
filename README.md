@@ -7,7 +7,6 @@ That's logo of my "company" AtennopGames :)
 - I'm Atennop - **C# / C++ Software Engineer**, **Game Developer** and **strict OOP Researcher** 
 - I'm a former Middle Unity developer, who retraining to become an Unreal Developer and C++ Game Engineer
 - I'm interested in network programming and want to delve into creating multiplayer games
-- I use Obsidian as my second brain to be more productive and efficient
 - I sometimes make bots for fun, or for new knowledge and research
 - I love to solve problems at LeetCode (Easy and Normal) and CodeWars (4kyu and 3kyu), and I publish my solutions to [**separate repo**](https://github.com/Atennop1/CodeProblemsSolutions)
 - I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise) in OOP style
