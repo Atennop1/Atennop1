@@ -5,7 +5,7 @@ That's logo of my "company" AtennopGames :)
  
 # **About me**
 - I'm Atennop - **C# / C++ Software Engineer**, **Game Developer** and **strict OOP Researcher** 
-- I'm a former Middle Unity developer, who retraining to become an Unreal Developer and C++ Game Engineer
+- I'm a former Middle Unity Developer, who retraining to become an Unreal Developer and C++ Game Engineer
 - I'm interested in network programming and want to delve into creating multiplayer games
 - I sometimes make bots for fun, or for new knowledge and research
 - I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise) in OOP style
