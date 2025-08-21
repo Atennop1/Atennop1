@@ -1,22 +1,28 @@
-That's logo of my "company" AtennopGames :)
+*This logo was originally created for my game dev projects under AtennopGames. I keep it here as a part of my journey*
 
 [![Header](https://github.com/Atennop1/Atennop1/blob/main/assets/logo.png)]()
 ###### Author of the logo idea: https://lospec.com/inkpendude 
  
 # **About me**
-- I'm Atennop - **C# / C++ Software Engineer**, **Game Developer** and **strict OOP Researcher**
-- I'm a former Middle Unity Developer, who retraining to become an Unreal Developer and C++ Game Engineer
-- I'm interested in network programming and want to delve into creating multiplayer games
-- I sometimes make bots for fun, or for new knowledge and research
-- I made my own [**library**](https://github.com/Atennop1/Relational-Databases-Via-OOP) for working with relational databases (PostgreSQL, to be more precise) in OOP style
+- I'm **Atennop**, **ex-GameDev** and **Backend Engineer**, who is currently deepening backend fundamentals
+- I'm a **former Middle Game Developer** (C# / C++), who shifted to backend engineering
+- Exploring backend with focus on **databases**, **networking**, and **architecture**
+- I like building things from scratch: from custom engines to backend services
 - I have [**meta**](https://t.me/atennopmeta) in Telegram where you can find more info about me and see my posts where I write interesting things that I do
 
 ### More about projects:
-- I made my own [**2D OOP game engine**](https://github.com/Atennop1/Genesis) and a [**game on it**](https://github.com/Atennop1/ArkanoidWithoutAnEngine)
-- I made [**UnrealShooter**](https://github.com/Atennop1/UnrealShooter) as first project in Unreal
-- I studied the ECS approach while creating [**Shooter**](https://github.com/Atennop1/ECS-Shooter)
-- I'm co-author of the [**Gift or Coal**](https://github.com/Funny-Monkeys/Gift-or-Coal) game, made at the New Year's game jam in 2022, and of the [**Escape From Hell**](https://github.com/GigaOrts/Halloween) game made on Halloween game jam in 2023
-- I worked with the [**top 3 game developer in Finland**](https://www.youtube.com/@littenchar) in 2023 at the Siberian Game Jam, where we presented [**The Last Dawn**](https://thebloka.itch.io/the-last-dawn)
-- I made [**my first game**](https://github.com/Atennop1/SavannaSprint) in 2021 and released it on GooglePlay
-- I completed [**my minesweeper**](https://github.com/Atennop1/Minesweeper) on January 5, 2023, and the idea appeared on December 31, 2022, when I saw a meme related to the minesweeper ;p
+- [**Genesis**](https://github.com/Atennop1/Genesis): my own 2D OOP game engine in C++  
+- [**ArkanoidWithoutAnEngine**](https://github.com/Atennop1/ArkanoidWithoutAnEngine): a game built fully from scratch with it
+- [**Relational-Databases-Via-OOP**](https://github.com/Atennop1/Relational-Databases-Via-OOP): experimental library for working with databases in OOP style  
+- [**UnrealShooter**](https://github.com/Atennop1/UnrealShooter): my first project created with Unreal 
+- [**Gift or Coal**](https://github.com/Funny-Monkeys/Gift-or-Coal): game where I'm co-author, made at the New Year's jam (2022)
+- [**Escape From Hell**](https://github.com/GigaOrts/Halloween): another game where I'm co-author, made at Halloween's jam (2023)
+- [**The Last Dawn**](https://thebloka.itch.io/the-last-dawn): and another game where I'm co-author, made during Siberian Game Jam with [littenchar](https://www.youtube.com/@littenchar)  
+- [**SavannaSprint**](https://github.com/Atennop1/SavannaSprint): my first released game (2021, Google Play)  
+- [**Minesweeper**](https://github.com/Atennop1/Minesweeper): just a fun side project at the start of 2023
 
+### Tech Stack
+- Languages: **Go**, **C++**, **C#**
+- Databases: **PostgreSQL**  
+- Tools & Frameworks: **Git**, **Docker**
+- OS: **Linux**, **Windows**
