@@ -5,8 +5,9 @@
  
 # **About me**
 - I'm **Atennop**, **ex-GameDev** and **Backend Engineer**, who is currently deepening knowledge in new field
+- I was a strict **OOP** proponent in GameDev, but now I wanna explore new approaches and delve into functional programming
 - I'm a **former Middle Game Developer** (C# / C++), who shifted to backend engineering
-- Exploring new field with focus on **databases**, **networking**, and **architecture**
+- I'm exploring new field with focus on **databases**, **networking**, and **architecture**
 - I like building things from scratch: from custom engines to cloud services
 - I have [**meta**](https://t.me/atennopmeta) in Telegram where you can find more info about me and see my posts where I write interesting things that I do
 
